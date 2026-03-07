@@ -1,2 +1,2 @@
 # whnlhd
-neovim plugin for encrypt what you type
+neovim plugin for encode what you type
